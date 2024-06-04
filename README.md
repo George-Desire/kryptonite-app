@@ -1,0 +1,1 @@
+KryptoniteApp is a futuristic application developed for Kryptonians to manage image uploads, user authentication, and 2FA. The API utilizes Nodemailer for email services, Redis for caching OTPs, and MongoDB for user data storage. The system employs JWT for authentication and API keys for secure file uploads.
